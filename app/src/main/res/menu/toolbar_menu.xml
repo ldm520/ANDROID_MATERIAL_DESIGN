@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/menu_one"
+            android:icon="@mipmap/ic_launcher"
+            android:title="测试菜单一"
+            app:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/menu_two"
+            android:icon="@mipmap/ic_launcher"
+            android:title="测试菜单二"
+            app:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/menu_threee"
+            android:icon="@mipmap/ic_launcher"
+            android:title="测试菜单三"
+            app:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/menu_four"
+            android:icon="@mipmap/ic_launcher"
+            android:title="测试菜单四"
+            app:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/menu_five"
+            android:icon="@mipmap/ic_launcher"
+            android:title="测试菜单五"
+            app:showAsAction="ifRoom"/>
+</menu>

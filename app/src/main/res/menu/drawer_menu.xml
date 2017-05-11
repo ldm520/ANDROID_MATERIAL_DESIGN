@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        >
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/float_action_button"
+                android:icon="@mipmap/ic_launcher"
+                android:title="FloatActionButton"
+
+                />
+        <item
+                android:id="@+id/snack_bar"
+                android:icon="@mipmap/ic_launcher"
+                android:title="SnackBar"
+                />
+        <item
+                android:id="@+id/coordinator_layout"
+                android:icon="@mipmap/ic_launcher"
+                android:title="CoordinatorLayout"
+                />
+        <item
+                android:id="@+id/card_view"
+                android:icon="@mipmap/ic_launcher"
+                android:title="CardView"
+                />
+        <item
+                android:id="@+id/app_bar_layout"
+                android:icon="@mipmap/ic_launcher"
+                android:title="AppBarLayout"
+                />
+        <item
+                android:id="@+id/swiper_refresh_layout"
+                android:icon="@mipmap/ic_launcher"
+                android:title="SwiperRefreshLayout"
+                />
+        <item
+                android:id="@+id/collapsing_toolbar_layout"
+                android:icon="@mipmap/ic_launcher"
+                android:title="CollapsingToolbarLayout"
+                />
+    </group>
+</menu>
